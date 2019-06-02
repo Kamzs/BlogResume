@@ -8,19 +8,34 @@ public class PagesController
 {
 
     @GetMapping("/")
-    public String getMainPage(){return "index";}
+    public String getMainPage()
+    {
+        return "index";
+    }
 
     @GetMapping("/technologies")
-    public String getTechnologiesPage(){return "technologies";}
+    public String getTechnologiesPage()
+    {
+        return "technologies";
+    }
 
     @GetMapping("/education")
-    public String getEducationPage(){return "education";}
+    public String getEducationPage()
+    {
+        return "education";
+    }
 
     @GetMapping("/experiance")
-    public String getExperiancePage(){return "experiance";}
+    public String getExperiancePage()
+    {
+        return "experiance";
+    }
 
     @GetMapping("/hobbys")
-    public String getHobbysPage(){return "hobbys";}
+    public String getHobbysPage()
+    {
+        return "hobbys";
+    }
 
 
 }
