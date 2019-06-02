@@ -1,0 +1,170 @@
+/* css --- treść komentarza, ignorowana przez przegladarkę internetową */
+
+body
+{
+	background-color: #303030;
+	color:#ffffff;
+/*		font-family: 'Oswald', sans-serif;*/
+	font-size: 20px;
+	font-family: 'Lora', serif; 
+	
+}
+
+#container
+{
+	width: 1000px;
+	margin: auto;
+	
+}
+
+.rectangle
+{
+	width: 1000px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.square
+{
+	width: 500px;
+	float: left;
+	text-align: center;
+}
+
+#logo
+{
+	float: left;
+	font-family: 'Oswald', sans-serif;
+	font-size: 70px;
+	width: 600px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: left;
+	padding-left: 25px;
+}
+
+#watch
+{
+	float: left;
+	font-family: 'Oswald', sans-serif;
+	font-size: 70px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: left;
+}
+
+.tile1
+{
+	float: left;
+	background-color: 	#808080;
+	width: 230px;
+	margin: 10px;
+	height: 115px;
+	text-align: center;
+	padding-top:20px;
+}
+
+.tile1:hover
+{
+	float: left;
+
+	width: 230px;
+	margin: 10px;
+	height: 115px;
+	text-align: center;
+	padding-top:15px;
+	font-weight: 700;
+	color: white;
+	background-color: #909999;
+}
+
+
+.tile2
+{
+	background-color: 	#808080;
+	width: 480px;
+	height: 250px;
+	margin: 10px;
+	text-align: center;
+	font-size: 17px;
+	line-height: 90%;
+	font-weight: 500;
+	padding-top:15px;
+	color: white;
+}
+
+.yt
+ {
+	 background-color: #FF6347;
+	 width: 230px;
+	height: 100px;
+	 margin: 10px;
+	 float: left;
+
+ }
+.yt:hover
+{
+	background-color: #FF7F50;
+
+}
+
+.git
+{
+	background-color: 	#2F4F4F;
+	width: 230px;
+	height: 100px;
+	margin: 10px;
+	float: left;
+
+}
+.git:hover
+{
+	background-color: 	#3F5F5F;
+
+}
+.fb
+{
+	background-color: #3B5998;
+	width: 230px;
+	height: 100px;
+	margin: 10px;
+	float: left;
+
+}
+.fb:hover
+{
+
+	background-color: #8B9DC3;
+}
+.linkedin
+{
+	background-color: #4169E1;
+	width: 230px;
+	height: 100px;
+	margin: 10px;
+	float: left;
+
+
+}
+.linkedin:hover
+{
+	background-color: #00BFFF;
+}
+
+a.tilelink
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block; /* dzieki temu caly kefelek ma link daje efekt pstrykniecia w link / ikonke"*/
+	width: 230px;
+	height: 115px;
+
+}
+
+a.html5standard
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+
