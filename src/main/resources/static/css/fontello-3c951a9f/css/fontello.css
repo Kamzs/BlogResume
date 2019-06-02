@@ -55,7 +55,7 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-github:before { content: '\e800'; margin-right: 100px } /* '' */
+.icon-github:before { content: '\e800';font-size: 65px; margin-top: 28px; margin-left:14px; } /* '' */
 .icon-trash-empty:before { content: '\e801'; } /* '' */
 .icon-thumbs-up:before { content: '\e802'; } /* '' */
 .icon-play-circled2:before { content: '\e803'; } /* '' */
@@ -63,7 +63,7 @@
 .icon-emo-coffee:before { content: '\e808'; } /* '' */
 .icon-emo-beer:before { content: '\e80b'; } /* '' */
 .icon-emo-shoot:before { content: '\e810'; } /* '' */
-.icon-linkedin:before { content: '\f0e1'; } /* '' */
-.icon-youtube:before { content: '\f167'; } /* '' */
+.icon-linkedin:before { content: '\f0e1';font-size: 65px; margin-top: 28px; margin-left:14px; } /* '' */
+.icon-youtube:before { content: '\f167';font-size: 65px; margin-top: 28px; margin-left:14px;} /* '' */
 .icon-child:before { content: '\f1ae'; } /* '' */
-.icon-facebook-squared:before { content: '\f308'; } /* '' */
+.icon-facebook-squared:before { content: '\f308';font-size: 65px; margin-top: 28px; margin-left:14px; } /* '' */
