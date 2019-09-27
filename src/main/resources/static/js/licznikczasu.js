@@ -11,4 +11,5 @@ function odliczanie()
 document.getElementById("watch").innerHTML = godzina+":"+minuta+":"+sekunda;
 
 setTimeout("odliczanie()",1000);
+
 }

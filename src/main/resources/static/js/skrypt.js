@@ -1,0 +1,1 @@
+alert('test of integration of js with springboot')
